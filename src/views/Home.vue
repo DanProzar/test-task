@@ -45,6 +45,7 @@
         </div>
       </div>
     </section>
+    <h1>Hello Dan!</h1>
   </div>
 </template>
 
