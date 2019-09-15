@@ -1,3 +1,5 @@
+<template>
+</template>
 <style>
   @font-face {
   font-family: 'Overpass';
@@ -31,6 +33,16 @@
 body {
   font-size: 16px;
   font-family: 'SourceSansPro', Arial;
+}
+
+p {
+  margin-bottom: 0 !important;
+}
+
+@media(min-width: 1200px) {
+  .container{
+    max-width: 1170px !important;
+  }
 }
 
 </style>
